@@ -1,0 +1,73 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+.container{
+width: 100%;
+padding: 50px;
+}
+
+header{
+background-color: blue;
+}
+
+
+#h3{
+  font-size: 3em;
+  font-weight: bold;
+}
+
+#title{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 30px;
+  background-color: white;
+}
+.bolas{
+/* width: 100%; */
+margin: auto;
+display: inline-block;
+text-align: center;
+/* background-color: brown; */
+
+
+
+}
+.bola{
+  border: solid black ;
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  margin-left: 20%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: red;
+  text-align: center;
+  float: left;
+}
+
+a{
+  text-decoration: none;
+  color: white
+}
+form{
+  color: white;
+}
+footer{
+/* width:100%; */
+background-color: green;
+}
+.bolas_contenedor{
+  margin:auto;
+}
+h1{
+  /* font-family: 'Fugaz One', cursive; */
+  /* font-family: cursive; */
+/* font-size: 300px; */
+}
+/* .formulario{
+  margin-top:100px;
+  background-color: cyan;
+} */
